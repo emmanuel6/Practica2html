@@ -1,0 +1,24 @@
+form {
+    width:40%;
+    margin-left:35%;
+    margin-top:3%;
+}
+
+h1{
+  color:#000000;
+}
+
+fieldset {
+  margin: 0 0 30px ;
+  background: #B8B8B8 ;
+}
+
+legend {
+  color: #000000;
+  background: #B8B8B8;
+  
+ }
+
+#span{
+     color:#CC0000;
+}
